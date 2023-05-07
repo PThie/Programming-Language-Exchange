@@ -1,3 +1,4 @@
 data
 config_R.R
 config_Python.py
+__pycache__
